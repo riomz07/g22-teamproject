@@ -1,0 +1,14 @@
+@media all and (max-width: 1000px) {
+
+}
+
+@media all and (max-width: 670px) {
+
+  .right {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block;
+  }
+}
